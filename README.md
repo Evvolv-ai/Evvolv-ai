@@ -45,11 +45,11 @@ Learn & Evolve: Watch as the platform discovers better-performing experiences an
 Check out our Getting Started Guide for more details.
 
 💬 Connect With Us
-🌐 Website: evvolv.ai
+🌐 Website: [evvolv.ai](https://www.evvolv.ai/)
 
-📝 Blog: Read our latest insights at evvolv.ai/blog
+📝 Blog: Read our Newletter at [evvolv.ai/Newletter](https://www.evvolv.ai/newsletter)
 
-💼 LinkedIn: Evolv.ai on LinkedIn
+💼 LinkedIn: Evvolv.ai on [LinkedIn](https://www.linkedin.com/company/evvolv-ai/)
 
 <!--
 **Evvolv-ai/Evvolv-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
